@@ -16,7 +16,7 @@ DROP TABLE IF EXISTS Categorias;
 -- 2) CREATE TABLES (DDL) 
 -- =====================================================================
 
---REVISÁ Y CREA TODAS!!!!!,ya dropeaste. Te faltaban campos en las tablas creadas, los into no coincidían
+
 
 CREATE TABLE Categorias (
 id_Categoria INT PRIMARY KEY,
